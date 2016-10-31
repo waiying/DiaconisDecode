@@ -1,3 +1,4 @@
+//Authors: Wai Ying Li and Tyler Schuster
 #include <iostream>
 #include <fstream>
 #include <string>
